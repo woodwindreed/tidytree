@@ -1,0 +1,20 @@
+{
+	"name": "element",
+	"children": [{
+			"name": "Core",
+			"children": [{
+					"name": "Closed Loop",
+					"value": 12
+				},
+				{
+					"name": "Open Loop",
+					"value": 14
+				}
+			]
+		},
+		{
+			"name": "Enabling",
+			"value": 3939
+		}
+	]
+}
