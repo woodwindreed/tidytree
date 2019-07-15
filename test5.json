@@ -1,0 +1,26 @@
+{
+ "name": "element",
+ "children": [
+  {
+   "name": "core",
+   "children": [
+    {
+     "name": "usewaste",
+     "children": [
+      {"name": "Closed Loop", "value": 3938},
+      {"name": "Open Loop", "value": 3812},
+      {"name": "Energy Recovery", "value": 6714},
+     ]
+    },
+    {
+     "name": "enabling",
+     "children": [
+      {"name": "Digital", "children": [ {"name":"data", "value": 3534}, {"name":"digital", "value": 3535}]
+      {"name": "Business", "value": 5731},
+      {"name": "Policy", "value": 7840},
+      {"name": "Collaboration", "value": 5914},
+      {"name": "Design", "value": 3416}
+     ]
+    }
+   ]
+  }
