@@ -1,0 +1,41 @@
+{
+	"name": "element",
+	"children": [{
+			"name": "Core",
+			"children": [{
+					"name": "Closed Loop",
+					"children": [{
+						"name": "Closed Loop - own company",
+						"value": 12
+					}, {
+						"name": "Closed Loop - own industry",
+						"value": 12
+					}]
+				},
+				{
+					"name": "Open Loop",
+					"children": [{
+						"name": "Open Loop - other industry",
+						"children": [{
+								"name": "Open Loop upcycling",
+								"value": 12
+							},
+							{
+								"name": "Open Loop recycling",
+								"value": 12
+							},
+							{
+								"name": "Open Loop downcycling",
+								"value": 12
+							}
+						]
+					}]
+				}
+			]
+		},
+		{
+			"name": "Enabling",
+			"value": 12
+		}
+	]
+}
