@@ -1,0 +1,445 @@
+{
+	"name": "element",
+	"children": [{
+			"name": "Core",
+			"children": [{
+					"name": "Prioritise Regenerative Resources",
+					"children": [{
+							"name": "Regenerative Materials",
+							"children": [{
+									"name": "Low impact materials",
+									"value": 12
+								},
+								{
+									"name": "Alternative bio-based materials and inputs",
+									"value": 12
+								},
+								{
+									"name": "Material efficiency",
+									"value": 12
+								},
+								{
+									"name": "Non-critical materials and inputs",
+									"value": 12
+								},
+								{
+									"name": "Non-toxic materials and inputs",
+									"value": 12
+								},
+								{
+									"name": "Reusable, recyclable materials and inputs",
+									"value": 12
+								}
+							]
+						},
+						{
+							"name": "Regenerative Water",
+							"children": [{
+									"name": "Alternative water use",
+									"value": 12
+								},
+								{
+									"name": "Water efficiency",
+									"value": 12
+								}
+							]
+						},
+						{
+							"name": "Regenerative Energy",
+							"children": [{
+									"name": "Electrification",
+									"value": 12
+								},
+								{
+									"name": "Energy efficiency",
+									"value": 12
+								},
+								{
+									"name": "Renewable energy, fuels",
+									"value": 12
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Preserve what's already in use",
+					"children": [{
+							"name": "Part recovery",
+							"value": 12
+						},
+						{
+							"name": "Product maintenance, repair",
+							"value": 12
+						},
+						{
+							"name": "Refurbishment, remanufacturing, renovation",
+							"value": 12
+						},
+						{
+							"name": "Refurbishment, repair (Textiles specific)",
+							"value": 12
+						},
+						{
+							"name": "Preservation, conservation",
+							"value": 12
+						},
+						{
+							"name": "Own brand second-hand sale",
+							"value": 12
+						},
+						{
+							"name": "Storage",
+							"value": 12
+						},
+						{
+							"name": "Management, enrichment",
+							"value": 12
+						},
+						{
+							"name": "Product upgrade",
+							"value": 12
+						},
+						{
+							"name": "Self-repair, spare part service",
+							"value": 12
+						},
+						{
+							"name": "Second-hand sale, distribution",
+							"value": 12
+						},
+						{
+							"name": "Use Waste as a Resource",
+							"children": [{
+									"name": "Closed loop high value chemical recycling (Textiles specific)",
+									"value": 12
+								},
+								{
+									"name": "Closed loop high value mechanical recycling (Textiles specific)",
+									"value": 12
+								},
+								{
+									"name": "Open loop high value chemical recycling (Textiles specific)",
+									"value": 12
+								},
+								{
+									"name": "Open loop high value mechanical recycling (Textiles specific)",
+									"value": 12
+								},
+								{
+									"name": "Closed loop collection",
+									"value": 12
+								},
+								{
+									"name": "Open loop collection",
+									"value": 12
+								},
+								{
+									"name": "Closed loop upcycling",
+									"value": 12
+								},
+								{
+									"name": "Using closed loop recycled materials",
+									"value": 12
+								},
+								{
+									"name": "Open loop input",
+									"value": 12
+								},
+								{
+									"name": "Closed loop input",
+									"value": 12
+								},
+								{
+									"name": "Closed loop downcycling",
+									"value": 12
+								},
+								{
+									"name": "Open loop downcycling",
+									"value": 12
+								},
+								{
+									"name": "Open loop upcycling",
+									"value": 12
+								},
+								{
+									"name": "Using open loop recycled materials",
+									"value": 12
+								},
+								{
+									"name": "Generating energy from waste",
+									"value": 12
+								},
+								{
+									"name": "Processing waste into fuel",
+									"value": 12
+								},
+								{
+									"name": "Recovery and reuse of waste energy",
+									"value": 12
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Enabling",
+			"children": [{
+					"name": "Rethink the Business Model",
+					"children": [{
+							"name": "Product Business Models",
+							"children": [{
+									"name": "Sale of refillable parts",
+									"value": 12
+								},
+								{
+									"name": "Leasing, rental, pay per use",
+									"value": 12
+								},
+								{
+									"name": "Peer to peer sharing",
+									"value": 12
+								},
+								{
+									"name": "Sale of durable, long-lasting goods",
+									"value": 12
+								},
+								{
+									"name": "Sale of exchangeable parts",
+									"value": 12
+								},
+								{
+									"name": "Subscription-based products",
+									"value": 12
+								}
+							]
+						},
+						{
+							"name": "Subscription Based Services",
+							"children": [{
+									"name": "Crowd-based services",
+									"value": 12
+								},
+								{
+									"name": "Payment per use",
+									"value": 12
+								},
+								{
+									"name": "Subscription-based services",
+									"value": 12
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Design for the Future",
+					"children": [{
+							"name": "Design Out Waste",
+							"children": [{
+									"name": "Design for minimal impact",
+									"value": 12
+								},
+								{
+									"name": "Design for minimal waste",
+									"value": 12
+								},
+								{
+									"name": "Design for resource efficiency",
+									"value": 12
+								}
+							]
+						},
+						{
+							"name": "Design for cyclability",
+							"children": [{
+									"name": "Design for bio-degradability",
+									"value": 12
+								},
+								{
+									"name": "Design for disassembly",
+									"value": 12
+								},
+								{
+									"name": "Design for modularity",
+									"value": 12
+								},
+								{
+									"name": "Design for recycling",
+									"value": 12
+								},
+								{
+									"name": "Design for recycling - mono-materials",
+									"value": 12
+								},
+								{
+									"name": "Design for repair",
+									"value": 12
+								},
+								{
+									"name": "Design for reuse",
+									"value": 12
+								},
+								{
+									"name": "Design for recycling - product trimmings and construction (Textiles specific)",
+									"value": 12
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Design for Durability",
+					"children": [{
+							"name": "Design for physical durability",
+							"value": 12
+						},
+						{
+							"name": "Design for product attachment, emotional durability",
+							"value": 12
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Team up to Create Joint Value",
+			"children": [{
+					"name": "Industry Collaboration",
+					"children": [{
+							"name": "Circular procurement",
+							"value": 12
+						},
+						{
+							"name": "Cross-industry projects, pilots",
+							"value": 12
+						},
+						{
+							"name": "Guidance, dialogue with industry stakeholders",
+							"value": 12
+						},
+						{
+							"name": "Joint industry ventures, projects, pilots",
+							"value": 12
+						}
+					]
+				}, {
+					"name": "Government Collaboration",
+					"children": [
+
+						{
+							"name": "Advocacy for circular economy policy",
+							"value": 12
+						},
+						{
+							"name": "Government programmes",
+							"value": 12
+						},
+						{
+							"name": "Dialogue with internal stakeholders",
+							"value": 12
+						},
+						{
+							"name": "Financial incentives tied to circular economy",
+							"value": 12
+						},
+						{
+							"name": "Training on the circular economy",
+							"value": 12
+						}
+					]
+				},
+
+				{
+					"name": "Customer Collaboration",
+					"children": [{
+							"name": "Co-creation",
+							"value": 12
+						},
+						{
+							"name": "Customer dialogue, marketing",
+							"value": 12
+						},
+						{
+							"name": "Customer programmes",
+							"value": 12
+						},
+						{
+							"name": "Customisation",
+							"value": 12
+						},
+						{
+							"name": "Takeback programmes",
+							"value": 12
+						}
+
+					]
+				},
+
+				{
+					"name": "Community Collaboration",
+					"children": [{
+							"name": "Give-back programmes",
+							"value": 12
+						},
+
+
+						{
+							"name": "Joint product development",
+							"value": 12
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Incorporate Digital Technology",
+			"children": [{
+					"name": "Data and Insights",
+					"children": [{
+							"name": "Ontologies",
+							"value": 12
+						},
+						{
+							"name": "Advanced robotics, artificial intelligence",
+							"value": 12
+						},
+						{
+							"name": "Data analytics, modelling",
+							"value": 12
+						},
+						{
+							"name": "Internet enabled, connected operations",
+							"value": 12
+						},
+						{
+							"name": "Sensors, monitoring systems",
+							"value": 12
+						},
+						{
+							"name": "Data Alliances",
+							"value": 12
+						}
+					]
+				},
+				{
+					"name": "Digital Platforms",
+					"children": [{
+							"name": "Online platforms",
+							"value": 12
+						},
+						{
+							"name": "Peer-to-peer online marketplaces",
+							"value": 12
+						}
+					]
+				}
+			]
+		}
+	]
+
+
+
+}
