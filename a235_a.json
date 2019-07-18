@@ -1,0 +1,37 @@
+{
+	"name": "Second-hand sale, distribution of second hand products",
+	"children": [{
+			"name": "e-Bay",
+			"value": 12
+		},
+		{
+			"name": "Maarktplaats",
+			"value": 12
+		},
+		{
+			"name": "OLX",
+			"value": 12
+		},
+		{
+			"name": "moxum",
+			"value": 12
+		},
+		{
+			"name": "Thred Up",
+			"value": 12
+		},
+		{
+			"name": "ubup",
+			"value": 12
+		},
+		{
+			"name": "Vinted",
+			"value": 12
+		},
+		{
+			"name": "...other",
+			"value": 12
+		}
+	]
+
+}
